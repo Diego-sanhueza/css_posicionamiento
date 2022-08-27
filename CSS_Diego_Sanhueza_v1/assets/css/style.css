@@ -1,0 +1,132 @@
+/* style.css*/
+/*
+.header {
+  height: 20em;
+  background-image: url("../imgs/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+*/
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background-color: darkgray;
+    b
+}
+
+.header {
+  height: 1em;
+  padding: 5em;
+  font-size: 1em;
+  background-image: url("../imgs/fondo.jpg");
+  background-size: cover;
+  background-position: right;
+  opacity: 5;
+}
+
+
+.header h1 {
+  margin: 0px;
+}
+
+/*
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+*/
+.products{
+    width: 80%;
+    margin: auto;
+}
+
+.products td{
+    width: 50%;
+    padding: 2em;
+}
+
+.products img{
+    width: 100%;
+    border:solid 1px rgb(221, 221, 221);
+}
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(27, 23, 23);
+    color:rgb(255, 247, 240);
+    text-align: center;
+    font-weight: 900;
+}
+
+/* Prueba de footing
+
+.logo{ 
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+.contenedor{
+    background-color:chartreuse;
+    width: 1200px;
+    height: 500px;
+}
+
+.col1{
+    background-color:rgb(240, 23, 167);
+    width: 400px;
+    height: 400px;
+}
+
+.col2{
+    background-color:rgb(243, 243, 18);
+    width: 400px;
+    height: 400px;
+
+}
+.col2 .wp{
+    background-color: red;
+    width: 100px;
+    height: 100px
+}
+
+.col2 .ig{
+    background-color: rgb(35, 20, 238);
+    width: 100px;
+    height: 100px
+}
+
+.col2 .fb{
+    background-color: rgb(219, 23, 187);
+    width: 100px;
+    height: 100px
+}
+
+.col3{
+    background-color:rgb(230, 118, 26);
+    width: 400px;
+    height: 400px;
+}
+
+.final {
+    background-color: rgb(24, 238, 238);    
+    width: 1200px;
+    height: 200px;
+}
+
+.copy{
+    background-color: red;
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+
+.politic {
+    background-color: blueviolet;
+    width: 600px;
+    height: 100px;
+    float: right;
+}
+*/
